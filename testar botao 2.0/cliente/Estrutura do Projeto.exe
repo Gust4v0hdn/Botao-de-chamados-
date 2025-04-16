@@ -1,0 +1,7 @@
+ProjetoChamado/
+├── main.c
+├── janela_floating_button.c
+├── janela_chamado_ti.c
+├── utils.c
+├── utils.h
+├── Makefile (opcional, para compilação no Linux ou MinGW)
